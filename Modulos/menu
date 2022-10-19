@@ -455,7 +455,7 @@ case "$x" in
    ;;
    17)
    clear
-   SINCRONIZARPAINEL
+   utili
    ;;
    18)
    limit_ssh
