@@ -466,7 +466,7 @@ case "$x" in
    exit;
    ;;
    20)
-   fr
+   fport
    ;;
    21)
    clear
