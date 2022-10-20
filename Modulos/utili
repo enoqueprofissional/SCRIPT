@@ -2,4 +2,4 @@
 clear
 echo -e "\033[1;37mSINCRONIZANDO \033[0m"
 sleep 2s
-bash <(wget -qO- bitbucket.org/nandoslayer/painel/downloads/sincoriginal.sh)
+pweb
