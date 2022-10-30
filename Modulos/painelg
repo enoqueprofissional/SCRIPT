@@ -1,5 +1,5 @@
 #!/bin/bash
 clear
-echo -e "\033[38;5;82mINSTALANDO PAINEL DE ATUALIZAÇÕES PARA O CONECTA 4G  \033[0m"
-sleep 4s
-apt update -y; apt upgrade -y; apt install wget -y; bash <(wget -qO- https://github.com/Lockednet/PAINEL4G/raw/main/install4g.sh)
+echo -e "\033[38;5;82mMOSTRANDO CONSUMO DE SUA VPS,, PARA VOLTAR PRECIONE !!!  \033[1;37m(  CTRL + C )  \033[0m"
+sleep 5s
+htop
