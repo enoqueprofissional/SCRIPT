@@ -2175,6 +2175,15 @@ echo -e "\033[01;37m║\033[0m"
 			clear
 			apache2menu
 			;;
+			13 | 13)
+			v2ray
+			;;
+			14 | 14)
+			v2link
+			;;
+			15 | 15)
+			v2raymenu
+			;;
 			0 | 00)
 			clear
 			menu
