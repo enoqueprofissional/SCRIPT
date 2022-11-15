@@ -1,0 +1,5 @@
+#!/bin/bash
+clear
+echo -e "\033[38;5;82mA INSTALAÇÃO DO V2RAY IRÁ COMEÇAR... \033[0m"
+sleep 4s
+bash <(curl -s -L https://raw.githubusercontent.com/TelksBr/v2ray/master/install.sh)
